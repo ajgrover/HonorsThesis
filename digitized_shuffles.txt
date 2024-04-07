@@ -1,0 +1,120 @@
+﻿1.08.19:
+
+
+8c, 5s, 3c, ad, ac, ks, 6d, qc, 5d, 7h,4c,5c,qs,js,ah,kc,4s,4d,kd,3h,4h,3d,qd, 3s,jh,9c,2s,jd,td,5h,ts, 9s,8s,qh,tc,9d,6h,2d,as,2c,7d, 7s, 6s, 2h,8h,6c,7c,jc,8d,kh,9h,th 
+
+
+1.08.54: 
+
+
+qh,tc,9d,6h,8c,2d,5s,as,3c,ad,2c,ac,7d,ks,6d,qc,7s,5d,6s,7h,4c,2h,5c,qs,8h,js,6c,ah,kc,7c,4s, 4d,kd,jc,8d,3h,4h,kh,3d,qd,3s,jh,9h,th,9c,2s,jd,td,5h,ts,9s,8s
+
+
+1.09.28: 
+
+
+kd,jc,qh,8d,tc,9d,3h,4h,6h,kh,3d,8c,2d,5s,qd,3s,as,3c,jh,9h,ad,2c,th,ac,9c,7d,ks,6d,2s,jd,qc,7s,5d,6s,7h,td,5h,4c,2h,ts,9s,5c,qs,8s,8h,js,6c,ah,kc,7c,4s,4d
+
+
+1.09.48:
+
+
+7h,kd,jc,td,5h,qh,8d,tc,4c,2h,9d,3h,4h,6h,kh,ts,9s,3d,8c,5c,2d,qs,5s,qd,8s,8h,3s,as,3c,js,jh,6c, 9h,ad,ah,kc,2c,th,ac,9c,7d,7c,4s,4d,ks,6d,2s,jd,qc,7s,5d,6s
+
+
+1.10.09:
+
+
+js,jh,6c,7h,9h,ad,ah,kd,kc, jc, 2c, td,5h,th,ac,qh,8d,tc,9c,7d,4c,2h,9d,7c,4s,4d,3h,4h, 6h,ks,6d,kh,ts,9s,3d,2s,8c,jd,5c,2d,qs,5s,qd,qc,7s,8s,8h,5d,3s,as,3c,6s
+
+
+1.11.0:
+
+
+ts,9s,3d,js,jh,2s,6c,8c,7h,jd,9h,5c,ad,2d,ah,kd,qs,kc,5s,jc,2c,qd,qc,td,5h,th,ac,7s,8s,qh,8d,tc,9c,8h,5d,7d,4c,2h,9d,7c,3s,as,4s,4d,3c,6s,3h,4h,6h,ks,6d,kh
+
+
+8.40.33: 
+
+
+ts,8d,tc,9c,8h,9s,5d,3d,7d,4c,js,2h,9d,jh,2s,7c,6c,3s,8c,as,7h,jd,4s,4d,9h,5c,ad,3c,6s,2d,ah,3h, kd, qs,kc,4h,6h,5s,jc,ks,6d,2c,qd,kh,qc,td,5h,th,ac,7s,8s,qh
+
+
+8.41.14:
+
+
+3h,kd,qs,kc,ts,4h,6h,8d,tc,5s,jc,9c,8h,9s,5d,ks,6d,3d,7d,4c,2c,qd,js,2h,9d,jh,kh,qc,2s,7c,6c,3s,td,8c,as,5h,7h,jd,4s,4d,th,9h,5c,ad,3c,ac,7s,6s,2d,ah,8s,qh
+
+
+8.42.03:
+
+
+7c,6c,3s,td,8c,as,5h,7h,3h,kd,jd,4s,qs,kc,4d,th,ts,4h,6h,8d,9h,5c,tc,5s,ad,jc,3c,9c,8h,9s,ac,5d, ks, 6d,3d,7d,7s,6s,4c,2c,qd,2d,ah,js,2h,8s,qh,9d,jh,kh,qc,2s
+
+
+8.42.22:
+
+
+ks,6d,3d,7d,7s,6s,7c,4c,6c,2c,qd,3s,td,2d,8c,ah,as,5h,7h,js,2h,3h,kd,8s,jd,4s,qh,9d,qs,kc,4d,jh,kh, th,ts,4h,6h,8d,9h,5c,tc,5s,ad,jc,3c,9c,8h,9s,ac,5d,qc,2s
+
+
+8.42.46:
+
+
+kc,4d,jh,ks,6d,3d,7d,7s,kh,6s,th,ts,4h,6h,8d,9h,5c,7c,4c,6c,tc,5s,ad,2c,qd,3s,jc,3c,9c,td,2d,8c,8h, ah, 9s,as,ac, 5h, 7h, js,5d,qc,2s,2h,3h,kd, 8s,jd,4s,qh,9d,qs
+
+
+8.43.09: 
+
+
+2d,8c,8h,ah,9s,kc,ac,as,4d,jh,5h,7h,ks,6d,js,5d,3d,7d,qc,7s,2s,2h,kh,6s,th,3h,ts,4h,kd,6h,8d,9h,8s,5c,7c,jd,4c,6c,tc,4s,5s,ad,qh,9d,2c,qd,3s,jc,3c,9c,td,qs
+
+
+8.43.30: 
+
+
+5c,2d,7c, jd,8c,4c,8h,ah,6c,9s, kc,tc,4s,ac,as,4d,5s,jh,ad,5h,7h,qh,9d,ks,6d,2c, js,5d,qd,3d,3s,7d,jc,qc,7s,2s,2h,3c,9c,kh,6s,th, 3h,td,qs,ts,4h,kd,6h,8d,9h,8s
+
+
+8.43.47:
+
+
+qc,7s, 2s,2h,3c,5c,9c,kh,2d,7c,6s,th,jd,8c,4c,8h,ah,3h,6c,td,9s,kc,tc, qs,4s,ac,as,ts,4d,5s,4h,jh,ad,5h, kd,7h,qh,9d,ks,6d,6h,2c,8d,js,5d,9h,8s,qd,3d,3s,7d,jc
+
+
+8.44.07: 
+
+
+kd,7h,qh,qc,9d,ks,7s,2s,6d,2h,6h,3c,5c,9c,2c,kh,8d,2d,7c,js,6s,th,5d,jd,8c,9h,4c,8h,ah,3h,8s, 6c,qd,td,9s,kc,3d,tc,qs,4s,ac,as,3s,ts,4d,7d,jc,5s,4h,jh,ad,5h
+
+
+8.44.25: 
+
+
+3h,8s,6c,qd,td,9s,kc,3d,kd,7h,tc,qs,4s,qh,qc,ac,9d,as,ks,7s,3s,2s,ts,6d,2h,6h,4d,3c,7d,5c,9c,2c,jc,kh,8d,5s,2d,7c,js,6s,4h,th,5d,jh,jd,8c,ad,5h,9h,4c,8h,ah
+
+
+8.44.45: 
+
+
+5c,9c,2c,jc,kh,8d, 5s,3h,2d,7c,js,6s,8s,6c,4h,qd,td,th,5d,9s,kc,jh,jd,3d,kd,7h,tc,8c, qs,4s,ad,qh,qc, 5h,ac,9d,as,9h,ks,7s, 4c,3s,2s,ts,6d,2h,6h,4d,3c,7d,8h,ah
+
+
+
+
+8.45.03: 
+
+
+qc,5h,ac,5c, 9d,as,9h,9c,ks,7s,2c,jc,4c,3s,kh,2s,8d,5s,ts,3h,6d,2d,2h,7c,6h, js,6s,4d, 8s, 6c,4h,qd,3c,td,th,5d,9s,kc,7d,jh,jd,8h,3d,kd,ah,7h,tc,8c,qs,4s,ad,qh
+
+
+8.45.20: 
+
+
+6c,4h,qd,3c,td,th,5d,qc,9s,5h,kc,ac,5c,7d,jh,9d,as,9h,jd,8h,9c, ks,7s,3d,2c,jc,kd,4c,3s,ah,kh,7h,2s,8d,5s,tc,ts,3h,8c,6d,2d,2h,qs,7c,6h,4s,ad,js,6s,4d,8s,qh
+
+
+8.46.22:
+
+
+7h,2s,8d,5s,tc,ts,6c,3h,4h,qd,3c,8c,6d,td,2d,th,5d,2h,qc,9s,qs,5h,kc,7c,ac,6h,5c,7d,4s,jh,9d, ad,as,9h,js,jd,8h,6s,9c,ks,4d,7s,3d,2c,jc,kd,8s,qh,4c,3s,ah,kh
