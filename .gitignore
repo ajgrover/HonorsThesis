@@ -163,8 +163,6 @@ cython_debug/
 #.idea/
 
 # Ignore Data folder
-Data/Jeff S
-Data/Jeff Q
-Data/Yoeri
-Data/backgrounds.pck
+Data
+YOLO_model
 
