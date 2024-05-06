@@ -3,4 +3,4 @@ Code and digitized data of the thesis Empirical Professional Card Shuffling writ
 Files:
 - The code used to clean the data and create the figures is contained in the "code.ipynb" file.
 - The figures used in the paper are found in the "Figures" folder.
-- The digitized data is found in the "digitized_shuffles.txt" file.
+- The digitized data is found in the "Data" folder.
